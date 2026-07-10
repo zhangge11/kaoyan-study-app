@@ -1,0 +1,9 @@
+{
+  "name": "kaoyan-study-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "考研复习管理系统，支持同一 WiFi 下两人共享数据。",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
